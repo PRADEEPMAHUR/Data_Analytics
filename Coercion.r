@@ -37,4 +37,4 @@ class(x)
 
 #Example 3:
 x <- c(1:10,"a")
-class(x)
+class(x) 
