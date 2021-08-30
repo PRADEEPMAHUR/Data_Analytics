@@ -28,3 +28,4 @@ View(c_1)
 newmtcars1 = read.csv(file='data/mtcars2.csv')
 head(newmtcars1)
 #no car names
+ 
