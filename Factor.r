@@ -34,5 +34,5 @@ factor_day <- factor(day_vector, order = TRUE, levels =c('morning', 'midday', 'a
 # Print the new variable
 factor_day
 
-#Note: Continuous Variables are by default of numeric class in R.
+#Note: Continuous Variables are by default of numeric class in R. 
  
