@@ -89,4 +89,4 @@ smxcars
 # Note: 
 # sapply() returns output in vector/matrix whereas 
 # lapply() retuns output in list.
-
+ 
