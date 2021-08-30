@@ -99,4 +99,4 @@ rowMeans(m1)
 
 # transpose
 t(m1) 
-m1
+m1 
